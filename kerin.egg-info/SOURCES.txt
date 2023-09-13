@@ -1,0 +1,14 @@
+LICENCE
+README.md
+setup.py
+kerin/__init__.py
+kerin/base.py
+kerin/dense.py
+kerin/loss.py
+kerin/model.py
+kerin/sigmoid.py
+kerin.egg-info/PKG-INFO
+kerin.egg-info/SOURCES.txt
+kerin.egg-info/dependency_links.txt
+kerin.egg-info/requires.txt
+kerin.egg-info/top_level.txt
